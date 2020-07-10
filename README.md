@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - :man_scientist: I'm a computational postdoc at CQMU, China.
 - :microscope: I’m currently working on microbial genomics and metagenomics.
 - :telescope: I'm passionate about reproducible research and open source.
