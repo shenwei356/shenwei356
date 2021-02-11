@@ -1,4 +1,6 @@
-- :man_scientist: I'm a computational postdoc at CQMU, China.
+[Github](https://github.com/shenwei356) | [Twitter](https://twitter.com/shenwei356) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=wHF3Lm8AAAAJ) | [ORCID](http://orcid.org/0000-0002-8099-8258)
+
+- :man_scientist: I'm a computational postdoc at The Second Affiliated Hospital of Chongqing Medical University, China.
 - :microscope: I’m currently working on microbial genomics and metagenomics.
 - :telescope: I'm passionate about reproducible research and open source software.
 - :computer: I use Golang to write tools for accelerating data wrangling, but I want to dig into R and learn Rust.
