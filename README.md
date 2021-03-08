@@ -15,4 +15,10 @@ Learn more: http://shenwei.me
  
 <!--
 ![Wei Shen's github stats](https://github-readme-stats.vercel.app/api?username=shenwei356&show_icons=true&bg_color=fff&title_color=00557f&text_color=81736d&hide_border=true&icon_color=216e39)
->
+--!>
+
+<hr>
+
+I'm grateful to users who have greatly helped to report bugs and suggest new features.
+
+I may respond to issues or fix bugs quickly, but I usually implement new features periodically (two or more weeks).
