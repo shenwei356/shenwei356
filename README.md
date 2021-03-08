@@ -9,13 +9,10 @@ Postdoctoral researcher<br/>
 
 - :microscope: I’m currently working on microbial genomics and metagenomics.
 - :telescope: I'm passionate about reproducible research and open source software.
-- :computer: I use Golang to write tools for accelerating data wrangling, but I want to dig into R and learn Rust.
 
 Learn more: http://shenwei.me
  
-
 ### Thanks
 
 I'm grateful to users who have greatly helped to report bugs and suggest new features.
-
 I may respond to issues or fix bugs quickly, but I usually implement new features periodically (two or more weeks).
