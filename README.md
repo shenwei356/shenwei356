@@ -12,5 +12,5 @@ Postdoctoral researcher<br/>
 
 Learn more: http://shenwei.me
  
-I'm grateful to users who have greatly helped to report bugs and suggested new features.<br/>
+I'm grateful to users who have greatly helped to report bugs and suggest new features.<br/>
 I may respond to issues or fix bugs quickly, but I usually implement new features periodically (two or more weeks).
