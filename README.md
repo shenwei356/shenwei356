@@ -1,7 +1,7 @@
 ### Wei Shen
 
 Postdoctoral researcher<br/>
-[Institute for Viral Hepatitis](http://infect-hepatol-cqmu.sahcqmu.com/), [The Second Affiliated Hospital of Chongqing Medical University](http://www.sahcqmu.com/), China
+[Institute for Viral Hepatitis](http://infect-hepatol-cqmu.sahcqmu.com/), [The Second Affiliated Hospital](http://www.sahcqmu.com/) of [Chongqing Medical University](https://english.cqmu.edu.cn/), China
 
 <img src="https://github-readme-stats.vercel.app/api?username=shenwei356&show_icons=true&bg_color=fff&title_color=00557f&text_color=81736d&hide_border=true&icon_color=216e39)" align="right" width=420 />
 
