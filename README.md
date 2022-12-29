@@ -1,6 +1,6 @@
 ### Wei Shen 沈伟
 
-Postdoctoral researcher<br/>
+Bioinformatician<br/>
 Institute for Viral Hepatitis, The Second Affiliated Hospital of Chongqing Medical University, China
 
 <a href="https://gitstar-ranking.com/shenwei356">
