@@ -11,6 +11,7 @@ Institute for Viral Hepatitis, The Second Affiliated Hospital, Chongqing Medical
 
 - :microscope: I’m currently working on microbial genomics and metagenomics.
 - :telescope: I'm passionate about reproducible research and open-source software.
+- [My suggestions for improving the usability of bioinformatic tools](https://github.com/shenwei356/perfect-bioinformatic-tools).
 
 Learn more: http://shenwei.me
  
