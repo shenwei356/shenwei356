@@ -13,7 +13,7 @@ Institute for Viral Hepatitis, The Second Affiliated Hospital, Chongqing Medical
 - :telescope: I'm passionate about reproducible research and open-source software.
 - [My suggestions for improving the usability of bioinformatic tools](https://github.com/shenwei356/perfect-bioinformatic-tools).
 
-Learn more: http://shenwei.me
+Personal site: http://shenwei.me, Lab site: https://mbio.info
  
 I'm grateful to users who have greatly helped to report bugs and suggest new features.<br/>
 I may respond to issues or fix bugs quickly, but I usually implement new features periodically (two or more weeks).
